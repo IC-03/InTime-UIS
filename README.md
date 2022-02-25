@@ -1,7 +1,6 @@
 # InTime-UIS
 ## 📌Autores:
 - Isabella Callejas Mandon
-- Juan Diego Jaimes Chivata
 - Johan Alexis García Almeida
 - Michael Andrey Maldonado Areniz
 
