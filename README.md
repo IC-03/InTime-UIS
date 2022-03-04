@@ -1,5 +1,5 @@
 # InTime-UIS
-![Image text](https://github.com/IC-03/InTime-UIS/blob/main/op3.jpg)
+![Image text](https://github.com/IC-03/InTime-UIS/blob/main/Banner-InTimeUIS.jpg)
   
 
 ## 📌Objetivo:
@@ -37,3 +37,7 @@ Como estudiantes es importante llegar temprano a clase, sin embargo, hay situaci
    -  [https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.shortest_paths.generic.shortest_path.html#networkx.algorithms.shortest_paths.generic.shortest_path](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.shortest_paths.generic.shortest_path.html#networkx.algorithms.shortest_paths.generic.shortest_path)
     
 -    [https://stackoverflow.com/questions/24024411/highlighting-the-shortest-path-in-a-networkx-graph](https://stackoverflow.com/questions/24024411/highlighting-the-shortest-path-in-a-networkx-graph)
+
+- [https://transport-systems.imperial.ac.uk/tf/60008_21/n2_2_weighted_and_directed_graphs.html](https://transport-systems.imperial.ac.uk/tf/60008_21/n2_2_weighted_and_directed_graphs.html)
+
+- [https://stackoverflow.com/questions/57421372/display-edge-weights-on-networkx-graph](https://stackoverflow.com/questions/57421372/display-edge-weights-on-networkx-graph)
