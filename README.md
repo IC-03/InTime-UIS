@@ -18,16 +18,12 @@ Como estudiantes, es importante llegar temprano a clase, sin embargo, hay situac
 
 - [https://www.uis.edu.co/webUIS/es/visitenos/mapaCampus/mapaCampus.pdf](https://www.uis.edu.co/webUIS/es/visitenos/mapaCampus/mapaCampus.pdf)
 - [https://github.com/VikSanz/videos-canal/blob/master/metrocdmx_networkx.ipynb](https://github.com/VikSanz/videos-canal/blob/master/metrocdmx_networkx.ipynb)
+- [https://networkx.org/documentation/stable/reference/index.html](https://networkx.org/documentation/stable/reference/index.html)
+
 - [https://stackoverflow.com/questions/20133479/how-to-draw-directed-graphs-using-networkx-in-python](https://stackoverflow.com/questions/20133479/how-to-draw-directed-graphs-using-networkx-in-python)
 - [https://networkx.org/documentation/stable/reference/drawing.html](https://networkx.org/documentation/stable/reference/drawing.html)
-- [https://stackoverflow.com/questions/61674222/overlap-graph-on-image-using-coordinates](https://stackoverflow.com/questions/61674222/overlap-graph-on-image-using-coordinates)
-- [https://stackoverflow.com/questions/11640620/is-it-possible-to-draw-graphs-on-a-given-image-using-networkx](https://stackoverflow.com/questions/11640620/is-it-possible-to-draw-graphs-on-a-given-image-using-networkx)
 - [https://towardsdatascience.com/customizing-networkx-graphs-f80b4e69bedf](https://towardsdatascience.com/customizing-networkx-graphs-f80b4e69bedf)
 - [https://jonathansoma.com/lede/algorithms-2017/classes/networks/networkx-graphs-from-source-target-dataframe/](https://jonathansoma.com/lede/algorithms-2017/classes/networks/networkx-graphs-from-source-target-dataframe/)
-- [https://networkx.org/documentation/stable/reference/algorithms/shortest_paths.html](https://networkx.org/documentation/stable/reference/algorithms/shortest_paths.html)
-- [https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.shortest_paths.weighted.dijkstra_path.html#networkx.algorithms.shortest_paths.weighted.dijkstra_path](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.shortest_paths.weighted.dijkstra_path.html#networkx.algorithms.shortest_paths.weighted.dijkstra_path)
-- [https://networkx.guide/algorithms/shortest-path/](https://networkx.guide/algorithms/shortest-path/)
-- [https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.shortest_paths.generic.shortest_path.html#networkx.algorithms.shortest_paths.generic.shortest_path](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.shortest_paths.generic.shortest_path.html#networkx.algorithms.shortest_paths.generic.shortest_path)
 - [https://stackoverflow.com/questions/24024411/highlighting-the-shortest-path-in-a-networkx-graph](https://stackoverflow.com/questions/24024411/highlighting-the-shortest-path-in-a-networkx-graph)
 - [https://transport-systems.imperial.ac.uk/tf/60008_21/n2_2_weighted_and_directed_graphs.html](https://transport-systems.imperial.ac.uk/tf/60008_21/n2_2_weighted_and_directed_graphs.html)
 - [https://stackoverflow.com/questions/57421372/display-edge-weights-on-networkx-graph](https://stackoverflow.com/questions/57421372/display-edge-weights-on-networkx-graph)
