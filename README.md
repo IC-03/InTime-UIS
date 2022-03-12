@@ -12,6 +12,7 @@ Como estudiantes, es importante llegar temprano a clase, sin embargo, hay situac
 ### 📌 Multimedia:
 - Video: [Intime-UIS](https://drive.google.com/file/d/1vWnw-nIVrzGQKXAuXR8vOpO1OIiLStyF/view?usp=sharing)
 - Diapositivas: [Presentación InTime-UIS](https://github.com/IC-03/InTime-UIS/blob/main/InTimeUIS-Presentaci%C3%B3n.pdf)
+- Guía de uso de nuestro proyecto: [Instrucciones InTime-UIS](https://github.com/IC-03/InTime-UIS/blob/main/Dataset/Gu%C3%ADa_de_uso.pdf)
 
 
 ## 📌Referencias:
